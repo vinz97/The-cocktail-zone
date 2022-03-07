@@ -1,5 +1,5 @@
 THE COCKTAIL ZONE 
-My first web application created during bachelor's degree in the course "Database and web programming". This web site was initially made only with PHP, Javascript, HTML, CSS and a mySQL DB. The aim of this webapp is collecting your favorite cocktails and drinks; after registration, an user can research any type of drinks based on name, ingredients and various type of information. The research is based on the API of TheCocktailDB (here the documentation https://www.thecocktaildb.com/api.php)
+My first web application created during bachelor's degree in the course "Database and web programming" (2019). This web site was initially made only with PHP, Javascript, HTML, CSS and a mySQL DB. The aim of this webapp is collecting your favorite cocktails and drinks; after registration, an user can research any type of drinks based on name, ingredients and various type of information. The research is based on the API of TheCocktailDB (here the documentation https://www.thecocktaildb.com/api.php)
 
 
 
